@@ -1,9 +1,8 @@
 //
 //  SexyScrollView.swift
-//  PreviewTransitionDemo
 //
 //  Created by Fredrik Bixo on 2017-01-21.
-//  Copyright © 2017 Alex K. All rights reserved.
+//  Copyright © 2017 Fredrik Bixo. All rights reserved.
 //
 
 import UIKit
