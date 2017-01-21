@@ -8,4 +8,4 @@ Simply drag the .swift file to your project and use it as a normal scroll view!
 
 # Demo
 
-![](https://www.dropbox.com/s/ioo1woo663u8dnt/SexyScrollView.gif?dl=0)
+![](https://dl.dropboxusercontent.com/u/3282996/SexyScrollView.gif)
