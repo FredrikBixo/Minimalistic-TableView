@@ -1,6 +1,6 @@
 # SexyScrollView
 
-SexyScrollView is a neat looking UI element for the swift. 
+SexyScrollView is a neat looking UI element for swift. 
 
 # Installation
 
