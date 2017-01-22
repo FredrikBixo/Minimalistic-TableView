@@ -1,6 +1,6 @@
 # MinimalisticTableView
 
-SexyScrollView is a neat looking UI element for swift. 
+MinimalisticTableView is a neat looking UI element for swift. 
 
 # Installation
 
@@ -16,4 +16,4 @@ I'm a 19 year old guy from Sweden working as a iOS freelance developer. Send an 
 
 # License
 
-Kingfisher is released under the MIT license. See LICENSE for details.
+MinimalisticTableView is released under the MIT license. See LICENSE for details.
