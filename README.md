@@ -13,3 +13,7 @@ Simply drag the .swift file to your project and use it as a normal scroll view!
 # Author 
 
 I'm a 19 year old guy from Sweden working as a iOS freelance developer. Send an email to fredrik.bixo@appricos.com if you are interested in my services.
+
+# License
+
+Kingfisher is released under the MIT license. See LICENSE for details.
