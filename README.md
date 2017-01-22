@@ -1,4 +1,4 @@
-# SexyScrollView
+# MinimalisticTableView
 
 SexyScrollView is a neat looking UI element for swift. 
 
