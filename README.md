@@ -16,4 +16,4 @@ I'm a 19 year old guy from Sweden working as a iOS freelance developer. Send an 
 
 # License
 
-MinimalisticTableView is released under the MIT license. See LICENSE for details.
+MinimalisticTableView is released under the MIT license.
