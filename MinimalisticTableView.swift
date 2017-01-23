@@ -11,7 +11,7 @@ fileprivate var animateWidth:CGFloat = 250
 
 // MARK: Delegate
 
-extension SexyScrollView:UIScrollViewDelegate {
+extension MinimalisticTableView:UIScrollViewDelegate {
     
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
         
@@ -61,7 +61,7 @@ extension SexyScrollView:UIScrollViewDelegate {
     }
 }
 
-class SexyScrollView: UIScrollView {
+class MinimalisticTableView: UIScrollView {
 
     var items = [String]()
     
