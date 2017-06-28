@@ -1,5 +1,5 @@
 //
-//  SexyScrollView.swift
+//  Minimalistic ScrollView.swift
 //
 //  Created by Fredrik Bixo on 2017-01-21.
 //  Copyright © 2017 Fredrik Bixo. All rights reserved.
